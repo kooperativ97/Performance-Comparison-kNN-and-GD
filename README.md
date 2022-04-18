@@ -1,6 +1,6 @@
 # Performance Comparison of kNN and GD
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6467636.svg)](https://doi.org/10.5281/zenodo.6467636)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6467659.svg)](https://doi.org/10.5281/zenodo.6467659)
 ## About
 
 This project aims to analyze the difference of two custom written regression algorithms against the state of the art implementation of [sklearn](https://scikit-learn.org/stable/). The two algorithms are k-nearest neighbors (KNN) and gradient descend (gd). Both are fully implemented in python. Key points to the comparison are accuracy and efficiency of the two algorithms but we will furthermore compare mse, mae, r2. 
