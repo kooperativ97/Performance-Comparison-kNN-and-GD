@@ -1,8 +1,6 @@
 # Performance Comparison of kNN and GD
 
-TODO CHANGE
-[![DOI](https://zenodo.org/badge/358195443.svg)](https://zenodo.org/badge/latestdoi/358195443)
-
+[![DOI](https://zenodo.org/badge/6467636.svg)](https://zenodo.org/badge/latestdoi/6467636)
 ## About
 
 This project aims to analyze the difference of two custom written regression algorithms against the state of the art implementation of [sklearn](https://scikit-learn.org/stable/). The two algorithms are k-nearest neighbors (KNN) and gradient descend (gd). Both are fully implemented in python. Key points to the comparison are accuracy and efficiency of the two algorithms but we will furthermore compare mse, mae, r2. 
@@ -27,7 +25,7 @@ The fish data set is a data set of 7 features with 159 rows of data. It contains
 
 Download the fish dataset via [Kaggle](https://www.kaggle.com/aungpyaeap/fish-market?select=Fish.csv) and save it as `fish.csv` into the `evaluations/fish/data/` folder.
 
-Alternatively use the dataset published on [Zenodo](LINK TO DATASET) TODO LINK which has added metadata (name and datatype information) comforming the [W3C's Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/#dfn-embedding-metadata).
+Alternatively use the dataset published on [Zenodo](https://zenodo.org/record/6467551) which has added metadata (name and datatype information) comforming the [W3C's Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/#dfn-embedding-metadata).
 
 ##### Metadata of Fish
 
@@ -48,7 +46,7 @@ The employee data set is a data set of 13 features and 9222 rows of data. It con
 
 Download the fish dataset via [OpenML](https://www.openml.org/d/42125) and save the dataset as `employee.arff ` into the `evaluations/employee/data/` folder.
 
-Alternatively use the dataset published on [Zenodo](LINK TO DATASET) TODO LINK 
+Alternatively use the dataset published on [Zenodo](https://zenodo.org/record/6467551)
 
 ##### Metadata of Employee
 
